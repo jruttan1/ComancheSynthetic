@@ -13,7 +13,7 @@ Explore how we accelerate Comanche NLP by combining synthetic text pipelines and
 ## 🚀 Clone the Repo
 
 ```bash
-git clone https://github.com/comanchegenerate/ComancheSynthetic.git
+git clone https://github.com/comanchegenerate/ComancheNLP.git
 cd ComancheSynthetic
 ```
 
